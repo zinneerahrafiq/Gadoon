@@ -37,7 +37,9 @@ dependencies:
   cupertino_icons: ^1.0.2
   geolocator: ^9.0.2
   http: ^1.1.0
-
+  device_info: ^2.0.3
+  permission_handler:
+  wifi_info_flutter_platform_interface: ^2.0.1
 
 dev_dependencies:
   flutter_test:
